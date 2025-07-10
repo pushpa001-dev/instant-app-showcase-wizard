@@ -1,54 +1,34 @@
-# Welcome to your Lovable project
+# Welcome to 🌐 SaaS Product Signup – UI Showcase
 
 ## Project info
 
 **URL**: https://instant-app-showcase-wizard.vercel.app
 
-## How can I edit this code?
+## Design Highlights
 
-There are several ways of editing your application.
+Color Palette: Elegant mix of white, grayscale, and deep blue/purple gradients for CTA emphasis
 
-**Use Lovable**
+Typography: Clear hierarchy using bold headers, readable body, and color-accented key terms
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4f058542-e386-45af-8ef7-4098cf779067) and start prompting.
+Icons: Simple, line-based SVG icons used to support scanability without distraction
 
-Changes made via Lovable will be committed automatically to this repo.
+Responsiveness: Layout likely uses flexible grid or flexbox — easily adaptable to mobile
 
-**Use your preferred IDE**
+Consistency: Buttons, cards, and spacing follow a uniform design system
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+**Note**
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+This page is primarily UI-focused — minimal interactivity required
 
-Follow these steps:
+Ideal as a landing page for SaaS trial conversion
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Can be implemented using frameworks like:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Tailwind CSS for utility-first styling
 
-# Step 3: Install the necessary dependencies.
-npm i
+Framer Motion or GSAP for smooth animations
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**🌐 SaaS Product Signup – UI Showcase**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Next.js or plain React for component structuring
 
 ## What technologies are used for this project?
 
